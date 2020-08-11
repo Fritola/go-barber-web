@@ -17,7 +17,7 @@ export default createGlobalStyle`
         font-size: 16px;        
     }
 
-    input {
+    input, button {
         outline: none;
     }
 
